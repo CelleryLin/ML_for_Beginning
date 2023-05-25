@@ -1,2 +1,5 @@
 
 Forecast/csvs/*
+COVID-19_Prediction/data/
+COVID-19_Prediction/checkpoints/
+
