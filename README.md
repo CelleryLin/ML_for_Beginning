@@ -1,2 +1,2 @@
-![](./src/Workflow of ML.svg)
+![](/src/Workflow of ML.svg)
 README will be writen someday...
