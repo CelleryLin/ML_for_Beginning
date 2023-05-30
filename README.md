@@ -1,2 +1,2 @@
-![](https://github.com/CelleryLin/ML_for_Beginning/blob/main/src/Workflow%20of%20ML.svg)
+![](/src/Workflow%20of%20ML.svg)
 README will be writen someday...
